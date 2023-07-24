@@ -1,1 +1,2 @@
-echo "# clone.github.io"
+# clone.github.io
+# index.md
